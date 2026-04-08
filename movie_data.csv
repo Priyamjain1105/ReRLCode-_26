@@ -1,0 +1,11 @@
+movie_id,title,genre,quality
+0,Interstellar,Sci-Fi,0.95
+1,The Dark Knight,Action,0.96
+2,The Notebook,Romance,0.85
+3,Inception,Sci-Fi,0.94
+4,Toy Story,Animation,0.90
+5,The Godfather,Crime,0.97
+6,Spirited Away,Animation,0.93
+7,La La Land,Romance,0.88
+8,Mad Max: Fury Road,Action,0.92
+9,Arrival,Sci-Fi,0.89
